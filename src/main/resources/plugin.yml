@@ -1,6 +1,6 @@
 name: NoElytraBoost
-version: ${version}
+version: 1.0.0
 main: com.noelytraboost.NoElytraBoostPlugin
 api-version: "1.21"
-author: Auto
-description: Disables firework rocket boost while gliding with elytra
+author: rieckt
+description: Prevents firework rocket boost while gliding with elytra by anchoring player velocity.
